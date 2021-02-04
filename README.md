@@ -1,7 +1,6 @@
 # link a Heroku: https://secure-mountain-90439.herokuapp.com/
 
-La parte de creación de admin del ejercicio puede verse en el código, pero no se refleja en la plataforma de Heroku, porque para subirlo tuve que vaciar las bases de datos. 
-
+La parte de creación de admin del ejercicio puede verse en el código, pero no se refleja en la plataforma de Heroku.
 # Actividad Presencial I
 ## Autenticación Manual desde cero
 
